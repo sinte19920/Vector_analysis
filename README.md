@@ -5,8 +5,6 @@
 Atlikti trys tyrimai su nauja vector kalse.
 
 1. main_speed.cpp: kodas, skirtas parodyti spartos palyginimus tarp vector class ir std::vector.
-2. funciontality.cpp: kodas, skirtas parodyti, kad Vektorius ir std::vector veikia taip pat
-3. source (aplankas): čia yra patobulinta V2.0 versija, realizuota su nauja Vektorius klase vietoje std::vector.
 
 ## Spartos palyginimas tarp Vector class ir std::vector su push_back:
 
